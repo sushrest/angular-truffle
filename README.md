@@ -1,19 +1,19 @@
-An Angular Skeleton DApp with Google Material Design UI and Truffle framework.
+## An Angular Skeleton DApp with Google Material Design UI and Truffle framework.
 
-Default feature
+### Default feature
 
 - Creates an ERC20 Token on Ethereum Blockchain Testnet using Testrpc
 - Creates crowsale contract where users can participate and buy token using Ethereum Balance they hold on MetaMask.
 
-Installation
+### Installation
 
-Prerequisites
+### Prerequisites
 - Ethereum Testnet testrpc 
 - npm 
 - nodejs
 - angular-cli
 
-Install
+### Install
 - Clone this repo 
 - npm install (this will install app dependencies)
 - Run Ethereum testnet (Ethereum local blockchain testnet)
