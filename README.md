@@ -7,13 +7,13 @@
 
 ### Installation
 
-### Prerequisites
+#### Prerequisites
 - Ethereum Testnet testrpc 
 - npm 
 - nodejs
 - angular-cli
 
-### Install
+#### Install
 - Clone this repo 
 - npm install (this will install app dependencies)
 - Run Ethereum testnet (Ethereum local blockchain testnet)
